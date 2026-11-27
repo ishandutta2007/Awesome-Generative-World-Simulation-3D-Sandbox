@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox?style=flat-square" alt="GitHub issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Generative-World-Simulation-3D-Sandbox?style=flat-square" alt="License" /></a>
@@ -78,9 +78,9 @@ Explore sovereign, open-source 3D sandbox engines, real-time physics simulators,
 
 ### ⭐ Open-Source Ranking Table
 
-*Sorted descending by GitHub stargazer count. Each star badge links directly to the repository's stargazers page.*
+*Sorted descending by GitHub stargazer count. Each Stars_Badge links directly to the repository's stargazers page.*
 
-| Project | Stars | License | Category | Description |
+| Project | GitHub_Stars | License | Category | Description |
 | :--- | :---: | :--- | :--- | :--- |
 | **[Godot Engine](https://github.com/godotengine/godot)** 🤖 | <a href="https://github.com/godotengine/godot/stargazers"><img src="https://img.shields.io/github/stars/godotengine/godot?style=social&color=white" alt="Godot Stars" /></a> | `MIT` | 3D Engine & Sandbox | Multi-platform 2D/3D game engine and procedural world building sandbox with built-in physics, GDScript, and C# support. |
 | **[Bevy](https://github.com/bevyengine/bevy)** 🦀 | <a href="https://github.com/bevyengine/bevy/stargazers"><img src="https://img.shields.io/github/stars/bevyengine/bevy?style=social&color=white" alt="Bevy Stars" /></a> | `MIT` / `Apache-2.0` | ECS 3D Sandbox Engine | Refreshingly simple data-driven game engine built in Rust, featuring a modular Entity-Component-System (ECS) ideal for generative simulations. |
@@ -114,7 +114,7 @@ We actively welcome contributions from creators, researchers, and engineers! �
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-world-engine`.
-3. 📝 **Add your entry**: Follow the existing tabular structure (include link, license, transparent pricing or star count, and accurate description).
+3. 📝 **Add your entry**: Follow the existing tabular structure (include link, license, transparent pricing or Stars_Count, and accurate description).
 4. 🚀 **Submit a Pull Request**: Provide a clear explanation of why the tool belongs in this curated collection.
 
 ---
